@@ -1,0 +1,73 @@
+apache POI
+
+<dependencies>
+	<dependency>
+		<artifact ID>
+		<group ID >	
+</dependencies>
+----
+Status code 504 405
+
+----
+idempotent POST method
+----
+Fetch & Pull in GIT
+resolve conflict in GIT
+cherry pick
+----
+file =(TakesScreenshot)driver.getScreenShotAs(OutputType.File);
+
+Action class  right click/double click/ hiver/scroll
+----
+how to handle drop downs 
+
+----
+
+
+----
+parallel execution with test NG
+----
+
+working with Excel
+XSSFWorkBook
+int x = getLastRowNum();--row
+for (int i=0;i< ;i++ )
+{
+}getRowDataasString
+
+----
+select max(salary) from table where month like 'July';
+select min(salary), a.* from table a where salary
+ in (select top 2 salary from table order by salary desc);
+select * from table ---limit offset;
+----
+
+int a=8; int b=5;
+a=a+b // 13
+b=a-b // b=8
+a=a-b //5
+
+----
+String s = " ";
+
+StringBuilder obj = new StringBuilder(str);
+String rstr =obj.reverse;
+
+if(rstr.isequals(str))
+	System.out.println("String is palindrom")
+else
+	SOP("not palnidrom")
+	
+char arr[] = s.toCharArray()
+for(int i=0;i<arr.lenght;i++)
+	{
+	String 
+	}
+
+----
+
+
+
+
+
+

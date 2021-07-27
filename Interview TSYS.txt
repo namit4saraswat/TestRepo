@@ -1,0 +1,69 @@
+update Employee set ID = '1234' where name like 'NAMIT';
+
+drop -table, schema; truncate - table ;delete- row
+
+--delete table ;
+
+select * from table;
+
+select * from Employee where name like 'N%';
+
+select distinct department from employee;
+
+Table a, Table b- for. key
+inner join
+inner left join- 
+inner right join 
+outerjoin join A - 
+
+***********
+
+String s1 = " Namit JAVA IR_01"
+
+int i1 = s1.replaceAll(^a-b A-B 0-9 , "").length(); -- returns special character
+ 
+***********
+
+int a;8
+int b;9
+
+fnSwap()
+{
+a=a+b;17
+b=a-b;// b -a-8
+//a=;
+a=a-b;
+}
+
+
+
+**********
+Action g= new Action()
+g.;
+
+class not found. class def not foung, IO Exception, File not foungel
+element,stale element
+absolute- /div 
+xpath - //
+
+************
+element.getText()- Submit
+getAttrbute- text, size, value, 
+
+************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
